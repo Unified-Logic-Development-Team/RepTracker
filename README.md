@@ -1,4 +1,4 @@
-# RepMind
+# RepTracker
 
 Our vision is to create **RepTracker**, a smart and simple workout logging app designed for lifters who want to track sets, reps, and progress without the clutter.
 
